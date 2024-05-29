@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body{
+    margin: 0px;
+    font-family: "Fira Sans", sans-serif;
+    color: #141414;
+   
+}
+h1,h2,h3,p{
+    margin: 0px;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+img{
+    max-width: 100%;
+    display: block;
+}
+
+.subtitulo{
+    font-family: "Playfair Display", serif;
+    font-size: 8rem;
+    line-height: 1;    
+    word-break: break-all;
+    text-transform: uppercase;
+}
+.empresa-texto{
+    font-size:.875rem;
+    line-height: 1.4;
+    color: #525252;
+}
+@media(max-width:800px){
+    .subtitulo{
+        font-size: 3rem;
+        text-transform: capitalize;
+        max-width: initial !important;
+    }
+}
