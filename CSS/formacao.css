@@ -10,7 +10,7 @@
     margin:0 auto;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    gap: 100px;   
+    gap: 101px;   
     position: relative; 
 }
 .formacao-container::after{
