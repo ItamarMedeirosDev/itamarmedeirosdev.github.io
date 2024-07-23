@@ -56,6 +56,7 @@
     display: flex;  
     flex-direction: column; 
     outline: black solid 2px;
+    margin-bottom: 200px;
 }
 
 .faculdade-tipo{
