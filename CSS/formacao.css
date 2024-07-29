@@ -45,8 +45,8 @@
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    margin-bottom: 60px;
-    
+    /* margin-bottom: 60px;
+     */
 }
 .faculdade{
     flex: 1;
@@ -56,7 +56,7 @@
     display: flex;  
     flex-direction: column; 
     outline: black solid 2px;
-    margin-bottom: 200px;
+    margin-bottom: 60px;
 }
 
 .faculdade-tipo{
